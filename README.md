@@ -8,6 +8,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### >> Azure DevOps - Docker / AKS
 
+* [Visual Studio Setup](https://github.com/johnpm45/DevOps-Notes/wiki/Visual-Studio-Setup)
+
+* [Docker Setup](https://github.com/johnpm45/DevOps-Notes/wiki/a.-Setup-Docker-and-Automate-Deployment-Windows)
+
+* [Public Docker Registry](https://github.com/johnpm45/DevOps-Notes/wiki/b.-Uploading-Images-to-public-docker-registry)
+
+* [Orchestrating Deployment](https://github.com/johnpm45/DevOps-Notes/wiki/c.-Orchestrating-docker-deployment-using-Azure-Kubernetes-Service)
+
+* [Uploading Image to Azure Container Registry](https://github.com/johnpm45/DevOps-Notes/wiki/d.-Uploading-image-to-Azure-container-registry)
+
 ### >> Azure ARM
 
 ### >> Team City
