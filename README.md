@@ -8,9 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### >> Azure DevOps - Docker / AKS
 * [Docker Command CheatSheets](https://gist.github.com/09wattry/9409b5bb14b8f3e086c56d687c44a740)
-```
- **Show command on running containers**
- 
+```markdown
  Run command from on container using the tag  
  `docker run --rm -it {image}:{tag}`
  
