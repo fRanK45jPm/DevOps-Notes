@@ -4,7 +4,25 @@ You can use the [editor on GitHub](https://github.com/johnpm45/DevOps-Notes/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Notes
+
+**Docker Command CheatSheets**
+
+
+```
+//// Download image and run an application in the container.
+docker run --rm mcr.microsoft.com/dotnet/core/samples
+
+//// Download image and run a sime web application on the container, after the container is started navigate to http://localhost:8000
+docker run -it --rm -p 8000:80 --name aspnetcore_sample mcr.microsoft.com/dotnet/core/samples:aspnetapp 
+ 
+//// Run command from on container using the tag  
+docker run --rm -it {image}:{tag}
+ 
+//// Run command from the container using the latest tag  
+docker run --rm -it {image}`
+```
+
+
 
 ### >> Azure DevOps - Docker / AKS
 
