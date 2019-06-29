@@ -7,7 +7,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Notes
 
 ### >> Azure DevOps - Docker / AKS
+* [Docker Command CheatSheets](https://gist.github.com/09wattry/9409b5bb14b8f3e086c56d687c44a740)
+```
+ **Show command on running containers**
+ 
+ Run command from on container using the tag  
+ `docker run --rm -it {image}:{tag}`
+ 
+ Run command from the container using the latest tag  
+ `docker run --rm -it {image}`
 
+```
 * [Visual Studio Setup](https://github.com/johnpm45/DevOps-Notes/wiki/Visual-Studio-Setup)
 
 * [Docker Setup](https://github.com/johnpm45/DevOps-Notes/wiki/a.-Setup-Docker-and-Automate-Deployment-Windows)
